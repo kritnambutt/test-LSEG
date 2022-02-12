@@ -1,0 +1,52 @@
+.App {
+    padding: 15px;
+}
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.pv-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ph-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Table Responsive */
+
+.table-responsive .ant-table-content {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+  
+.table-responsive .ant-table-content .ant-table-cell {
+    white-space: nowrap;
+}
+
+.text-right {
+    text-align: right;
+}
+  
+.text-left {
+    text-align: left;
+}
+  
+.text-center {
+    text-align: center;
+}
